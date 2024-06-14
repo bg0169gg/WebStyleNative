@@ -36,7 +36,7 @@
 }
 @font-face {
     font-family: "Nature Beauty";
-    src: url(/Resources/Assets/Fonts/NatureBeautyFont-abstract.ttf);
+    src: url(../Assets/Fonts/NatureBeautyFont-abstract.ttf);
 }
 * {
     margin: 0;
@@ -170,7 +170,7 @@ headbar-menu {
         background-color: var(--colors-light-button-hover);
     }
     #header-title {
-        background-image: url(/Resources/Assets/Images/title-light.png);
+        background-image: url(../Assets/Images/title-light.png);
     }
     .headbar {
         background-color: var(--colors-light-headbar-bg);
@@ -195,7 +195,7 @@ headbar-menu {
         background-color: var(--colors-dark-button-hover);
     }
     #header-title {
-        background-image: url(/Resources/Assets/Images/title-dark.png);
+        background-image: url(../Assets/Images/title-dark.png);
     }
     .headbar {
         background-color: var(--colors-dark-headbar-bg);
